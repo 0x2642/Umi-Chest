@@ -1,0 +1,15 @@
+[db]
+db   = movielearn
+port = 3306
+user = root
+host = 127.0.0.1
+pass =
+charset = utf8
+
+[server]
+host = 127.0.0.1
+port = 12345
+
+[transmission]
+crypto = defalut
+crypto_key = 23
